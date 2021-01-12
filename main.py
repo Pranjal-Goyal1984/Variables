@@ -16,7 +16,7 @@
 firstName = "Pranjal" #This is a string type
 
 favoriteBook = "The Giving Tree" #string
-favNumber = 3 # 
+favNumber = 3 #int
 isHungry = True #Boolean
 favChar = 'P' #char
-pi = 3.14159
+pi = 3.14159 #float
