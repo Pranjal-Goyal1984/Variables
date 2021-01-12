@@ -19,3 +19,4 @@ favoriteBook = "The Giving Tree" #string
 favNumber = 3 # 
 isHungry = True #Boolean
 favChar = 'P' #char
+pi = 3.14159
